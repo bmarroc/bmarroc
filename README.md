@@ -10,7 +10,7 @@
 
 #### Connect with me:
 
-[<img align="left" alt="bmarroc | Linkedin" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />][linkedin]
+[<img align="left" alt="bmarroc | Linkedin" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />][linkedin]
 
 <br/>
 
