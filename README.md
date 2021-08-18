@@ -1,4 +1,4 @@
-#### Hi there 👋 , I’m Bruno!
+### Hi there 👋 , I’m Bruno!
 
 - 👀  I’m interested in Mathematics, Physics and Computer Science
 - 📚  I’m currently learning Advanced Data Science
