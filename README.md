@@ -1,8 +1,18 @@
 ### Hi there 👋 , I’m Bruno!
 
+## I'm a Data Scientist 📈
+
+- 👨🏽‍💻 I previously worked as an Android Developer and a Full Stack Developer
+- 👨🏽‍🏫 Vast teaching experience in undergraduate Mathematics courses
 - 👀  I’m interested in Mathematics, Physics and Computer Science
 - 📚  I’m currently learning Advanced Data Science
 - 💻  I’m looking forward to collaborate with you in AI interesting projects 
+
+#### Connect with me:
+
+[<img align="left" alt="bmarroc | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br/>
 
 #### Languagues and Tools:
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
@@ -16,11 +26,6 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 <img align="left" alt="Firebase" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
 
-<br/>
-
-#### Connect with me:
-
-[<img align="left" alt="bmarroc | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com
 
