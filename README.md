@@ -4,9 +4,9 @@
 
 - 👨🏽‍💻 I previously worked as an Android Developer and a Full Stack Developer
 - 👨🏽‍🏫 Vast teaching experience in undergraduate Mathematics courses
-- 👀  I’m interested in Mathematics, Physics and Computer Science
+- 🧠  I’m interested in Mathematics, Physics and Computer Science
 - 📚  I’m currently learning Advanced Data Science
-- 💻  I’m looking forward to collaborate with you in AI interesting projects 
+- 💻  I’m looking to collaborate on AI interesting projects 
 
 #### Connect with me:
 
@@ -14,7 +14,7 @@
 
 <br/>
 
-#### Languagues and Tools:
+#### Languages and Tools:
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 <img align="left" alt="TensorFlow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png">
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
