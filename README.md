@@ -1,10 +1,10 @@
-### Hi there 👋 , I’m Bruno!
+## Hi there 👋 , I’m Bruno!
 
-## I'm a Data Scientist 📈
+#### I'm a Data Scientist 📈
 
 - 👨🏽‍💻 I previously worked as an Android Developer and a Full Stack Developer
-- 👨🏽‍🏫 Vast teaching experience in undergraduate Mathematics courses
-- 🧠  I’m interested in Mathematics, Physics and Computer Science
+- 👨🏽‍🏫  Teaching assistant experience in undergraduate Mathematics courses
+- 🧠  I’m interested in Mathematics and its appplications to Theoretical Physics and Computer Science
 - 📚  I’m currently learning Advanced Data Science
 - 💻  I’m looking to collaborate on AI interesting projects 
 
