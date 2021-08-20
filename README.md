@@ -2,7 +2,7 @@
 
 ### I'm a Data Scientist 📈
 
-- 👨🏽‍💻 Working experience as an Android Developer and a Full Stack Developer
+- 👨🏽‍💻 Previously I worked as an Android Developer and a Full Stack Developer
 - 👨🏽‍🏫  Teaching experience in undergraduate Mathematics courses
 - 🧠  I’m interested in Mathematics and its Applications to Theoretical Physics and Computer Science
 - 📚  I’m currently learning Advanced Data Science
