@@ -4,7 +4,7 @@
 
 - 👨🏽‍💻 I previously worked as an Android Developer and a Full Stack Developer
 - 👨🏽‍🏫  Teaching experience in undergraduate Mathematics courses
-- 🧠  I’m interested in Mathematics and its appplications to Theoretical Physics and Computer Science
+- 🧠  I’m interested in Mathematics and its Applications to Theoretical Physics and Computer Science
 - 📚  I’m currently learning Advanced Data Science
 - 💻  I’m looking to collaborate on AI interesting projects 
 
