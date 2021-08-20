@@ -1,6 +1,6 @@
 ## Hi there 👋 , I’m Bruno!
 
-### I'm a Data Scientist 📈
+### I'm a Mathematician. Currently working as a Data Scientist 📈
 
 - 👨🏽‍💻 Previously I worked as an Android Developer and a Full Stack Developer
 - 👨🏽‍🏫  Teaching experience in undergraduate Mathematics courses
