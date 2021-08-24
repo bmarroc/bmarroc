@@ -8,12 +8,6 @@
 - 📚  I’m constantly learning new tools and techniques
 - 💻  I’m looking to collaborate on AI interesting projects 
 
-#### Connect with me:
-
-[<img align="left" alt="bmarroc | Linkedin" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />][linkedin]
-
-<br/>
-
 #### Languages and Tools:
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="left" alt="Numpy" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
