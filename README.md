@@ -6,7 +6,7 @@
 - 👨🏽‍🏫  Teaching experience in undergraduate Mathematics courses
 - 🧠  I’m interested in Mathematics and its Applications to Theoretical Physics and Finance
 - 📚  I’m constantly learning new tools and techniques
-- 💻  I’m looking to collaborate on AI interesting projects 
+- 💻  I’m looking forward to collaborate on AI interesting projects 
 
 #### Languages and Tools:
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
