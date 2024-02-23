@@ -5,8 +5,8 @@
 - 👨🏽‍💻 Previously I worked as an Android Developer and a Full Stack Developer
 - 👨🏽‍🏫  Teaching experience in undergraduate Mathematics courses
 - 🧠  I’m interested in AI and its Applications to Finance
-- 📚  I’m constantly learning new tools and techniques
-- 💻  I’m looking forward to collaborate with you on interesting projects 
+- 📚  Constantly learning new tools and techniques
+- 💻  Looking forward to collaborate with you on interesting projects 
 
 #### Languages and Tools:
 <img align="left" alt="Python" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
